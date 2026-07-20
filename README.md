@@ -6,12 +6,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Website+Developer;Building+AI+Powered+Apps;Next.js+•+React+•+Supabase;Always+Learning+New+Technologies;Welcome+to+my+GitHub!" />
 </p>
 
-<p align="center">
-<a href="https://portfolio-kalai-tau.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"></a>
-<a href="mailto:spydybat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
-<img src="https://komarev.com/ghpvc/?username=Spydybat&style=for-the-badge&color=blue" />
-</p>
-
 ---
 
 # 🚀 About Me
@@ -24,6 +18,24 @@ I'm **Kalaiyarasan K**, a **Full Stack Web Developer** and **Computer Science st
 - 🚀 Building SaaS Products
 - 🎨 Passionate about UI/UX
 - 🌍 Open to Freelancing & Collaboration
+
+---
+
+# 📬 Connect With Me
+
+<p align="left">
+<a href="https://portfolio-kalai-tau.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:spydybat@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Spydybat" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
